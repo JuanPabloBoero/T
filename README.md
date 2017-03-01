@@ -1,2 +1,2 @@
 # T
-Lightweight Twitter client.
+Lightweight Twitter client .
